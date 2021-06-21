@@ -20,7 +20,6 @@ Ons spel gaat over Robin Hood die castle nottingham gaat beroven en het geld ver
 | Product  | Link |
 | ------ |  ------ |
 | Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]
-| Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
 | Logboek (pdf)                                             | [Logboek]
 | Opnames sprint retrospectives (Teams opnames)             | [Folder op teams]
 | Opnames standups (Teams opnames)                          | [Folder op teams]
@@ -31,7 +30,6 @@ Ons spel gaat over Robin Hood die castle nottingham gaat beroven en het geld ver
 | ------ |  ------ |
 | Sprint review verslagen (pdf)         | [ReviewVerslagen]
 | Logboek (pdf)                         | [Logboek]
-| Asset planning (pdf)                  | [AssetPlanning]
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://trello.com/b/793py92Y/mythe>
