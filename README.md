@@ -29,7 +29,6 @@ Ons spel gaat over Robin Hood die castle nottingham gaat beroven en het geld ver
 #### Producten Werkproces 3
 | Product  | Link |
 | ------ |  ------ |
-| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]
 | Sprint review verslagen (pdf)         | [ReviewVerslagen]
 | Logboek (pdf)                         | [Logboek]
 | Asset planning (pdf)                  | [AssetPlanning]
