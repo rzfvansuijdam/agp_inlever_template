@@ -34,7 +34,7 @@ Ons spel gaat over Robin Hood die castle nottingham gaat beroven en het geld ver
 
    [Backlog]: <https://trello.com/b/793py92Y/mythe>
    [Logboek]: <https://trello.com/b/LrU0dy5l/mythe-logboek>
-   [GameDesignDoc]: <https://github.com/rzfvansuijdam/agp_inlever_template/blob/master/producten/gdd.pdf>
+   [GameDesignDoc]: <https://github.com/rzfvansuijdam/agp_inlever_template/blob/master/producten/gdd.f>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
    [ReviewVerslagen]: <https://github.com/rzfvansuijdam/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Folder op teams]: <https://teams.microsoft.com/_#/school/files/Team%2011?threadId=19%3A816fc2b3f6174c889893e55b6c295356%40thread.tacv2&replyChainId=1624263335371&ctx=channel&context=Team%252011&rootfolder=%252Fteams%252FMytheGDGA2021-Team11%252FGedeelde%2520documenten%252FTeam%252011>
